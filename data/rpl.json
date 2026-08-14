@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T20:01:26.889326+00:00",
+  "updatedAt": "2026-08-14T20:52:30.447782+00:00",
   "source": "https://www.championat.com/football/_russiapl.html",
   "competition": "Российская Премьер-Лига",
   "season": "2026/2027",
@@ -14,8 +14,8 @@
       "awayScore": 1,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1465837941322079237.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1689198863840844941.png"
+      "homeTeamCrest": null,
+      "awayTeamCrest": null
     },
     {
       "id": "1318844",
@@ -27,8 +27,8 @@
       "awayScore": 1,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1465837941322079237.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1689198863840844941.png"
+      "homeTeamCrest": null,
+      "awayTeamCrest": null
     },
     {
       "id": "1318846",
@@ -40,8 +40,8 @@
       "awayScore": 5,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/16908882251255422058.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1688043161757065608.png"
+      "homeTeamCrest": null,
+      "awayTeamCrest": null
     },
     {
       "id": "1318846",
@@ -53,8 +53,8 @@
       "awayScore": 5,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/16908882251255422058.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1688043161757065608.png"
+      "homeTeamCrest": null,
+      "awayTeamCrest": null
     },
     {
       "id": "1318872",
@@ -66,8 +66,8 @@
       "awayScore": 0,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/16523023911931541032.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1785183391726944328.png"
+      "homeTeamCrest": null,
+      "awayTeamCrest": null
     },
     {
       "id": "1318872",
@@ -79,8 +79,8 @@
       "awayScore": 0,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/16523023911931541032.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1785183391726944328.png"
+      "homeTeamCrest": null,
+      "awayTeamCrest": null
     },
     {
       "id": "1318876",
@@ -92,8 +92,8 @@
       "awayScore": 0,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1465838729886051809.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1465838512157254062.png"
+      "homeTeamCrest": null,
+      "awayTeamCrest": null
     },
     {
       "id": "1318876",
@@ -105,8 +105,8 @@
       "awayScore": 0,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1465838729886051809.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1465838512157254062.png"
+      "homeTeamCrest": null,
+      "awayTeamCrest": null
     },
     {
       "id": "1318878",
@@ -118,8 +118,8 @@
       "awayScore": 2,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/16770706191821416934.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/16338148841362249653.png"
+      "homeTeamCrest": null,
+      "awayTeamCrest": null
     },
     {
       "id": "1318878",
@@ -131,8 +131,8 @@
       "awayScore": 2,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/16770706191821416934.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/16338148841362249653.png"
+      "homeTeamCrest": null,
+      "awayTeamCrest": null
     },
     {
       "id": "1318842",
@@ -144,8 +144,8 @@
       "awayScore": 1,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/14658384771344549206.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1501229909577937100.png"
+      "homeTeamCrest": null,
+      "awayTeamCrest": null
     },
     {
       "id": "1318842",
@@ -157,8 +157,8 @@
       "awayScore": 1,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/14658384771344549206.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1501229909577937100.png"
+      "homeTeamCrest": null,
+      "awayTeamCrest": null
     },
     {
       "id": "1318868",
@@ -170,8 +170,8 @@
       "awayScore": 3,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/15619832822012126038.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/14676324111013772033.png"
+      "homeTeamCrest": null,
+      "awayTeamCrest": null
     },
     {
       "id": "1318868",
@@ -183,8 +183,8 @@
       "awayScore": 3,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/15619832822012126038.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/14676324111013772033.png"
+      "homeTeamCrest": null,
+      "awayTeamCrest": null
     },
     {
       "id": "1318880",
@@ -196,8 +196,8 @@
       "awayScore": 1,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1752329119595955801.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/14658384351941932061.png"
+      "homeTeamCrest": null,
+      "awayTeamCrest": null
     },
     {
       "id": "1318880",
@@ -209,8 +209,8 @@
       "awayScore": 1,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1752329119595955801.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/14658384351941932061.png"
+      "homeTeamCrest": null,
+      "awayTeamCrest": null
     },
     {
       "id": "1318848",
@@ -222,8 +222,8 @@
       "awayScore": 4,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1785183391726944328.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/14658384351941932061.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "20:00"
     },
     {
@@ -236,8 +236,8 @@
       "awayScore": 4,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1785183391726944328.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/14658384351941932061.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "20:00"
     },
     {
@@ -250,8 +250,8 @@
       "awayScore": 1,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/16338148841362249653.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/14658384771344549206.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "18:30"
     },
     {
@@ -264,8 +264,8 @@
       "awayScore": 1,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/16338148841362249653.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/14658384771344549206.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "18:30"
     },
     {
@@ -278,8 +278,8 @@
       "awayScore": 1,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1465837941322079237.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1465838512157254062.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "16:15"
     },
     {
@@ -292,8 +292,8 @@
       "awayScore": 1,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1465837941322079237.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1465838512157254062.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "16:15"
     },
     {
@@ -306,8 +306,8 @@
       "awayScore": 2,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/16908882251255422058.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/15619832822012126038.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "14:00"
     },
     {
@@ -320,8 +320,8 @@
       "awayScore": 2,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/16908882251255422058.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/15619832822012126038.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "14:00"
     },
     {
@@ -334,8 +334,8 @@
       "awayScore": 1,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1689198863840844941.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1465838729886051809.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "20:45"
     },
     {
@@ -348,8 +348,8 @@
       "awayScore": 1,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1689198863840844941.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1465838729886051809.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "20:45"
     },
     {
@@ -362,8 +362,8 @@
       "awayScore": 3,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1752329119595955801.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1688043161757065608.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "16:00"
     },
     {
@@ -376,8 +376,8 @@
       "awayScore": 3,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1752329119595955801.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1688043161757065608.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "16:00"
     },
     {
@@ -390,8 +390,8 @@
       "awayScore": 2,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/14676324111013772033.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/16770706191821416934.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "18:15"
     },
     {
@@ -404,8 +404,8 @@
       "awayScore": 2,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/14676324111013772033.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/16770706191821416934.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "18:15"
     },
     {
@@ -418,8 +418,8 @@
       "awayScore": 2,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1501229909577937100.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/16523023911931541032.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "20:30"
     },
     {
@@ -432,8 +432,8 @@
       "awayScore": 2,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1501229909577937100.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/16523023911931541032.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "20:30"
     },
     {
@@ -446,8 +446,8 @@
       "awayScore": 0,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1465837941322079237.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/14658384351941932061.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "20:30"
     },
     {
@@ -460,8 +460,8 @@
       "awayScore": 0,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1465837941322079237.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/14658384351941932061.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "20:30"
     },
     {
@@ -474,8 +474,8 @@
       "awayScore": 0,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/14658384771344549206.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/16908882251255422058.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "18:00"
     },
     {
@@ -488,8 +488,8 @@
       "awayScore": 0,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/14658384771344549206.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/16908882251255422058.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "18:00"
     },
     {
@@ -502,8 +502,8 @@
       "awayScore": 2,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1465838512157254062.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1689198863840844941.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "15:30"
     },
     {
@@ -516,8 +516,8 @@
       "awayScore": 2,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1465838512157254062.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1689198863840844941.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "15:30"
     },
     {
@@ -530,8 +530,8 @@
       "awayScore": 2,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1688043161757065608.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1785183391726944328.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "17:00"
     },
     {
@@ -544,8 +544,8 @@
       "awayScore": 2,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1688043161757065608.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1785183391726944328.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "17:00"
     },
     {
@@ -558,8 +558,8 @@
       "awayScore": 2,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/16523023911931541032.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/14676324111013772033.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "20:00"
     },
     {
@@ -572,8 +572,8 @@
       "awayScore": 2,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/16523023911931541032.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/14676324111013772033.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "20:00"
     },
     {
@@ -586,8 +586,8 @@
       "awayScore": 1,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/15619832822012126038.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1752329119595955801.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "20:30"
     },
     {
@@ -600,8 +600,8 @@
       "awayScore": 1,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/15619832822012126038.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1752329119595955801.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "20:30"
     },
     {
@@ -614,8 +614,8 @@
       "awayScore": 1,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1465838729886051809.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/16338148841362249653.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "14:30"
     },
     {
@@ -628,8 +628,8 @@
       "awayScore": 1,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1465838729886051809.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/16338148841362249653.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "14:30"
     },
     {
@@ -642,8 +642,8 @@
       "awayScore": 0,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/16770706191821416934.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1501229909577937100.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "19:30"
     },
     {
@@ -656,8 +656,8 @@
       "awayScore": 0,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/16770706191821416934.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1501229909577937100.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "19:30"
     },
     {
@@ -670,8 +670,8 @@
       "awayScore": 1,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1752329119595955801.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/14658384771344549206.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "17:00"
     },
     {
@@ -684,8 +684,8 @@
       "awayScore": 1,
       "competition": "Российская Премьер-Лига",
       "status": "FINISHED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1752329119595955801.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/14658384771344549206.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "17:00"
     },
     {
@@ -698,8 +698,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1465837941322079237.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/16770706191821416934.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "16:15"
     },
     {
@@ -712,8 +712,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1465837941322079237.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/16770706191821416934.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "16:15"
     },
     {
@@ -726,8 +726,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1785183391726944328.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/16908882251255422058.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "14:00"
     },
     {
@@ -740,8 +740,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1785183391726944328.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/16908882251255422058.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "14:00"
     },
     {
@@ -754,8 +754,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/14676324111013772033.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1501229909577937100.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "20:45"
     },
     {
@@ -768,8 +768,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/14676324111013772033.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1501229909577937100.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "20:45"
     },
     {
@@ -782,8 +782,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/14658384351941932061.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/15619832822012126038.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "18:30"
     },
     {
@@ -796,8 +796,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/14658384351941932061.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/15619832822012126038.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "18:30"
     },
     {
@@ -810,8 +810,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1689198863840844941.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/16523023911931541032.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "19:30"
     },
     {
@@ -824,8 +824,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1689198863840844941.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/16523023911931541032.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "19:30"
     },
     {
@@ -838,8 +838,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1688043161757065608.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1465838729886051809.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "14:30"
     },
     {
@@ -852,8 +852,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1688043161757065608.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1465838729886051809.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "14:30"
     },
     {
@@ -866,8 +866,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1465838512157254062.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/16338148841362249653.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "17:00"
     },
     {
@@ -880,8 +880,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1465838512157254062.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/16338148841362249653.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "17:00"
     },
     {
@@ -894,8 +894,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1465837941322079237.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/14658384771344549206.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "20:15"
     },
     {
@@ -908,8 +908,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1465837941322079237.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/14658384771344549206.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "20:15"
     },
     {
@@ -922,8 +922,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/16770706191821416934.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1752329119595955801.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "15:30"
     },
     {
@@ -936,8 +936,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/16770706191821416934.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1752329119595955801.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "15:30"
     },
     {
@@ -950,8 +950,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1501229909577937100.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/14658384351941932061.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "18:00"
     },
     {
@@ -964,8 +964,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1501229909577937100.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/14658384351941932061.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "18:00"
     },
     {
@@ -978,8 +978,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/16523023911931541032.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1688043161757065608.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "20:00"
     },
     {
@@ -992,8 +992,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/16523023911931541032.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1688043161757065608.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "20:00"
     },
     {
@@ -1006,8 +1006,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/16338148841362249653.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/14676324111013772033.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "17:30"
     },
     {
@@ -1020,8 +1020,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/16338148841362249653.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/14676324111013772033.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "17:30"
     },
     {
@@ -1034,8 +1034,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1465838729886051809.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1785183391726944328.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "15:15"
     },
     {
@@ -1048,8 +1048,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1465838729886051809.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1785183391726944328.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "15:15"
     },
     {
@@ -1062,8 +1062,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/16908882251255422058.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1465838512157254062.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "13:00"
     },
     {
@@ -1076,8 +1076,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/16908882251255422058.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1465838512157254062.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "13:00"
     },
     {
@@ -1090,8 +1090,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1689198863840844941.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/15619832822012126038.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "20:30"
     },
     {
@@ -1104,8 +1104,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1689198863840844941.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/15619832822012126038.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "20:30"
     },
     {
@@ -1118,8 +1118,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/16908882251255422058.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1465837941322079237.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "18:00"
     },
     {
@@ -1132,8 +1132,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/16908882251255422058.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1465837941322079237.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "18:00"
     },
     {
@@ -1146,8 +1146,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/14658384771344549206.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1465838729886051809.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "20:00"
     },
     {
@@ -1160,8 +1160,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/14658384771344549206.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1465838729886051809.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "20:00"
     },
     {
@@ -1174,8 +1174,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/14676324111013772033.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/14658384351941932061.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "17:30"
     },
     {
@@ -1188,8 +1188,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/14676324111013772033.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/14658384351941932061.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "17:30"
     },
     {
@@ -1202,8 +1202,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/16770706191821416934.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1688043161757065608.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "15:00"
     },
     {
@@ -1216,8 +1216,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/16770706191821416934.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1688043161757065608.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "15:00"
     },
     {
@@ -1230,8 +1230,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1501229909577937100.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1465838512157254062.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "20:00"
     },
     {
@@ -1244,8 +1244,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1501229909577937100.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1465838512157254062.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "20:00"
     },
     {
@@ -1258,8 +1258,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/16523023911931541032.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1752329119595955801.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "17:30"
     },
     {
@@ -1272,8 +1272,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/16523023911931541032.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1752329119595955801.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "17:30"
     },
     {
@@ -1286,8 +1286,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/15619832822012126038.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/16338148841362249653.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "20:00"
     },
     {
@@ -1300,8 +1300,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/15619832822012126038.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/16338148841362249653.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "20:00"
     },
     {
@@ -1314,8 +1314,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1785183391726944328.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1689198863840844941.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "15:00"
     },
     {
@@ -1328,8 +1328,8 @@
       "awayScore": null,
       "competition": "Российская Премьер-Лига",
       "status": "SCHEDULED",
-      "homeTeamCrest": "https://img.championat.com/team/logo/1785183391726944328.png",
-      "awayTeamCrest": "https://img.championat.com/team/logo/1689198863840844941.png",
+      "homeTeamCrest": null,
+      "awayTeamCrest": null,
       "time": "15:00"
     }
   ]

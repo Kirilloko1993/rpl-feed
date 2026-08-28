@@ -58,9 +58,15 @@ def fetch_json(url: str, retries: int = 3):
     """GET через curl (sofascore режет python-urllib по TLS), с ретраями."""
     last = None
     for i in range(retries):
-        r = subprocess.run(
-            ["curl", "-sS", "--max-time", "30", "--tlsv1.2", "--tls-max", "1.2", "-A", UA, url],
-            capture_output=True, text=True)
+        has_cimp = subprocess.run(
+            ["which", "curl-impersonate-chrome"], capture_output=True
+        ).returncode == 0
+        if has_cimp:
+            cmd = ["curl-impersonate-chrome", "-sS", "--max-time", "30", "-A", UA, url]
+        else:
+            # fallback: обычный curl с TLS 1.2 (работает на macOS SecureTransport)
+            cmd = ["curl", "-sS", "--max-time", "30", "--tlsv1.2", "--tls-max", "1.2", "-A", UA, url]
+        r = subprocess.run(cmd, capture_output=True, text=True)
         if r.returncode == 0 and r.stdout.strip():
             try:
                 return json.loads(r.stdout)

@@ -1,11 +1,7 @@
 name: scrape-rpl
 
 on:
-  schedule:
-    - cron: '*/30 * * * *'
   workflow_dispatch:
-  push:
-    branches: [main]
 
 permissions:
   contents: write
@@ -19,14 +15,6 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-
-      - name: Установить curl-impersonate
-        run: |
-          curl -sS -L -o /tmp/cimp.tar.gz \
-            "https://github.com/lwthiker/curl-impersonate/releases/download/v0.6.1/curl-impersonate-v0.6.1.x86_64-linux-gnu.tar.gz"
-          tar xzf /tmp/cimp.tar.gz -C /usr/local/bin curl-impersonate-chrome
-          chmod +x /usr/local/bin/curl-impersonate-chrome
-          /usr/local/bin/curl-impersonate-chrome --version | head -1
 
       - name: Скрейп расписания РПЛ
         run: python scripts/scrape_rpl.py data/rpl.json

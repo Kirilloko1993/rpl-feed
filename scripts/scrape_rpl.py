@@ -59,7 +59,7 @@ def fetch_json(url: str, retries: int = 3):
     last = None
     for i in range(retries):
         r = subprocess.run(
-            ["curl", "-sS", "--max-time", "30", "-A", UA, url],
+            ["curl", "-sS", "--max-time", "30", "--tlsv1.2", "--tls-max", "1.2", "-A", UA, url],
             capture_output=True, text=True)
         if r.returncode == 0 and r.stdout.strip():
             try:
